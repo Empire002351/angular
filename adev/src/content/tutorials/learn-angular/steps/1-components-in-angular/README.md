@@ -26,7 +26,7 @@ template: `
 When you changed the HTML template, the preview updated with your message. Let's go one step further: change the color of the text.
 </docs-step>
 
-<docs-step title="Update the component styles">
+<docs-step title="Up the component styles">
 Update the styles value and change the `color` property from `blue` to `#a144eb`.
 
 ```ts
